@@ -8,7 +8,7 @@ categories: []
 layout: post
 ---
 <iframe frameborder="0" src="https://itch.io/embed-upload/12270989?color=333333" allowfullscreen="" width="920" height="640"><a href="https://jonnyas93.itch.io/tankazooka">Play Tankazooka on itch.io</a></iframe>
-
+<body>
 Tankazooka is a side-scrolling platformer where you command a broken tank, with no tracks you must use your cannon to launch yourself across lush farmlands and desolated cityscapes to rejoin your convoy. 
 
 I worked on this game as a software engineer and designer, creating the initial prototype of the game (Which you can try <a href="">here</a>).
@@ -38,3 +38,4 @@ The team:
   <li>Jordan Moore: Composer</li>
   <li>Godwin Lai: Composer</li>
 </ul>
+</body>
