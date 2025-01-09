@@ -12,6 +12,12 @@
           "type": "string"
         },
         {
+          "title": "Layout",
+          "name": "Layout",
+          "type": "string",
+          "default": "Single"
+        },
+        {
           "title": "Description",
           "name": "description",
           "type": "string"
